@@ -15,8 +15,12 @@ In the process of brainstorming we had to come up with possible future invention
 - Provides details even when the app is offline (scheduled time of travel methods, guided map, tourist attractions, set plans)
 - Embedded safety features (ex: keeping track of steps through the vibration of human movement)
 - Includes security details (making accounts, settings, etc)  
-We came up with this by looking at Part A to see what we can imporve or what's missing that can be invented in the future. We realized that instead of using 5 different apps while traveling we can combine the apps into one. Also having a nice vehicle while traveling or on road trips are very important. That's why we came up with a new car that can possibly become the best traveling vehicle in the future. This car won't just be fast and floating off the ground. The car will be able to go underwater and in the air. To achieve this we need a powerful engin and motor. This vehicle will be powered by electricity and fully waterproof so nothing gets wet or damaged. The materials used to create this vehicle will also be very strong and durable. This vehicle will become the best traveling vehicle!  
-We are only focusing on these 2 for now because we wanna make these inventions more realistic and possible for the furture.
+We came up with this by looking at Part A to see what we can imporve or what's missing that can be invented in the future. We realized that instead of using 5 different apps while traveling we can combine the apps into one. Also having a nice vehicle while traveling or on road trips are very important. That's why we came up with a new car that can possibly become the best traveling vehicle in the future. This car won't just be fast and floating off the ground. The car will be able to go underwater and in the air. To achieve this we need a powerful engin and motor. This vehicle will be powered by electricity and fully waterproof so nothing gets wet or damaged. The materials used to create this vehicle will also be very strong and durable. This vehicle will become the best traveling vehicle! We are only focusing on these 2 for now because we wanna make these inventions more realistic and possible for the furture.
+To finalize our content me and my partner made sure we had enough information, ideas, and details for these new inventions. We also got feedback from our classmates so we can improve on what we had.
+## Engineering Disign Process (EDP)
+I am now on step 3 of the Engineering Disign Process where I brainstorm about possible future inventions for my topic **_Travel_**. I will be using my creativity to brainstorm and think of possible inventions that will be added to **Traveling Industries** in the future.
+## Skills
+
 
 
 
