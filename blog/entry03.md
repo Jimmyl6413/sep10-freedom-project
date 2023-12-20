@@ -24,6 +24,8 @@ I am now on step 3 of the Engineering Disign Process where I brainstorm about po
 While brainstorming possible inventions in the future for traveling I used my creativity to create possible in inventions. Using my creativity allow me to think of more unique invention ideas such as vehicles that can fly and go underwater in the future. Doesn't that sound like a cool vehicle to use while on a road trip or traveling with family and friends?
 ### Teamwork 
 Since I am working on the Freedom Project with a partner, teamwork is very important. Without good teamwork we won't be able to work efficently. To achieve good teamwork we need to ustilize class time. Outside of shcool we can still work together by calling or meeting up.
+## Next steps
+I will be finalizing everything I have got and start planning. I am very excited!
 
 
 
