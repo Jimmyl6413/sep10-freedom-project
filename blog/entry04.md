@@ -11,6 +11,14 @@ In this blog entry I will be going over what tools I chose and how I tinkered wi
 
 ### [A-Frame](https://aframe.io/)
 
+### Engineering Design Process (EDP)
+
+### Skills
+
+
+### Next steps
+I will be using the tools that I learned to create a prototype of my freedom project. This is gonna be a blast!
+
 
 
 
