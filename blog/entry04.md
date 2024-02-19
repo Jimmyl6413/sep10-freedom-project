@@ -18,6 +18,9 @@ I am working on step 4 of the Engineering Design Process where I will be learnin
 ### Self-learnimg
 Since we all chose different tools we had to learn how to use these tools before we begin making a prototype of our project. My tools were A-frame and Animated.css. I learned how to use my tools through various testing and watching videos. After testing different codes over and over again and using guides on A-frame I was able to create a 3D model of shapes and backgrounds. I also learned to animate different elements to appear differently using Animated.css.
 
+### How to Google
+When I first started testing out my tools I didn't know what some of the codes did or how to use them. For example, I didn't know what ```@keyframe``` was used for so I searched up "Keyframe css". This brought me to [w3schools](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.php) where I learned that keyframes are used to specify the animation code. By searching up various codes that I never saw or learned before I was able to undertsand how to use them. I was also able to test them out in w3schools.
+
 
 
 ### Next steps
