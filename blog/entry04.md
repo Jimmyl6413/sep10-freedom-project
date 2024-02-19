@@ -6,14 +6,18 @@ After completing the research on softwares and hardwares on traveling, I began l
 ### Content
 In this blog entry I will be going over what tools I chose and how I tinkered with the tools I choosed. I will be able to explain how to use the tool and what it will be useful for in this project.
 
-### [Animated.css](https://animate.style/)
+##  [Animated.css](https://animate.style/)
 
 
-### [A-Frame](https://aframe.io/)
+## [A-Frame](https://aframe.io/)
 
-### Engineering Design Process (EDP)
+## Engineering Design Process (EDP)
+I am working on step 4 of the Engineering Design Process where I will be learning how to use tools to help me with my Freedom Project. I will be using these tools to **create a prototype** for my Freedom project in step five.
+## Skills
 
-### Skills
+### Self-learnimg
+Since we all chose different tools we had to learn how to use these tools before we begin making a prototype of our project. My tools were A-frame and Animated.css. I learned how to use my tools through various testing and watching videos. After testing different codes over and over again and using guides on A-frame I was able to create a 3D model of shapes and backgrounds. I also learned to animate different elements to appear differently using Animated.css.
+
 
 
 ### Next steps
