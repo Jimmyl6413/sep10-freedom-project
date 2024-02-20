@@ -9,11 +9,35 @@
 />
   <title>Animated.css Practice</title>
   <style>
+  p {
+    font-size: 20px;
+  }
+  #test2 {
+    text-align: center;
+  }
+  .my-element {
+  display: inline-block;
+  margin: 0 0.5rem;
+
+  animation: fadeInDown; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 10s; /* don't forget to set a duration! */
+}
+
+div {
+  background-color: #827b5e;
+}
 
 
   </style>
 </head>
 <body>
+  <div>
+  <h1 class="animate__animated animate__tada" id="test2"> Hello!</h1>
+  <h2 class="animate__animated animate__rubberBand animate__delay-5s" id="test2"> Welcome to my practice html file for animated.css!</h2>
+   <p class="my-element">In animation and filmmaking, a key frame (or keyframe) is a drawing or shot that defines the starting and ending points of a smooth transition. These are called frames because their position in time is measured in frames on a strip of film or on a digital video editing timeline.</p>
+   </div>
+    <body>
+
 
 
 </body>
