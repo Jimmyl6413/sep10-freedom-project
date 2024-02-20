@@ -18,6 +18,10 @@ In this blog entry I will be going over what tools I chose and how I tinkered wi
 }
 ```
 This class allow an element to have a specific animation with a inline black and animation duration.
+```html
+ <h2 class="animate__animated animate__rubberBand animate__delay-3s" id="test2"> Welcome to my practice html file for animated.css!</h2>
+```
+By using this class I was able to make my h1 have an animation called rubberBand with a delay of three seconds.
 
 
 ## [A-Frame](https://aframe.io/)
