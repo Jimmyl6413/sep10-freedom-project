@@ -7,7 +7,17 @@ After completing the research on softwares and hardwares on traveling, I began l
 In this blog entry I will be going over what tools I chose and how I tinkered with the tools I choosed. I will be able to explain how to use the tool and what it will be useful for in this project.
 
 ##  [Animated.css](https://animate.style/)
-**Animated.css** has a variety of animations and features that we can use on different elements and codes. I was able to test out Animated.css in [this practicen file](..//tool/animated-css.html). I looked through the tutorials and the basics of using Animated.css. I added animated.css directly to my practice html file using the CDN and started testing all the animations like bounce, backInDown, and more. I tested it out with divs and classes and then came across keyframes which I had a hard time understanding. I used w3schools to learn how to use keyframes and tried it. I used animated.css to animate different elements using divs and key frames.
+**Animated.css** has a variety of animations and features that we can use on different elements and codes. I was able to test out Animated.css in [this practice file](..//tool/animated-css.html). I looked through the tutorials and the basics of using Animated.css. I added animated.css directly to my practice html file using the CDN and started testing all the animations like bounce, backInDown, and more. I tested it out with divs and classes and then came across keyframes which I had a hard time understanding. I used w3schools to learn how to use keyframes and tried it. I used animated.css to animate different elements using divs and key frames.
+```css
+ .my-element {
+  display: inline-block;
+  margin: 0 0.5rem;
+
+  animation: fadeInUp; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 4s; /* don't forget to set a duration! */
+}
+```
+This class allow an element to have a specific animation with a inline black and animation duration.
 
 
 ## [A-Frame](https://aframe.io/)
