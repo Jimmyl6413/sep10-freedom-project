@@ -29,6 +29,27 @@ By using this class I was able to make my h1 have an animation called rubberBand
 A-frame is an open source web framework for building 3d animations and allowing people to make things more realistic. We are able to create reality expierences on a-frame by using html and css. A-frame can be used on all platforms and devices.
 ### How I tinkered with A-frame
 I started by making a [practice html file](../tool/a-frame.html) for A-frame. I went to the **installation** page on A-frame and installed A-frame by using the CDN:```<script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>```.
+I tried:
+```
+ <a-scene>
+      <a-assets>
+        <img id="sky" src="sky.png">
+      </a-assets>
+      <a-sky src="#sky"></a-sky>
+      <a-sky color="#6EBDC4"></a-sky>
+
+    <!-- Box -->
+    <a-box color= "black" width="8" height="4.5" depth="0.2" position="0 3 -7" >
+      <!-- Circle-->
+      <a-circle color="blue" position="2 0 0.11" side="double">
+
+      </a-circle>
+    </a-box>
+  </a-scene>
+```
+This allowed me to create a box and circle with relative positioning. I was able to have a light blue sky background. I also learned that we can import models and images by using ```<a-assets></a-assets>``` by having the model downloaded and saved and using a ```<img id="" scr=""``` which I haven't tried yet.
+
+[Click Here to Learn More about A-frame](https://www.youtube.com/watch?v=ktjMCanKNLk&list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV)
 
 
 ## Engineering Design Process (EDP)
