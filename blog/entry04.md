@@ -30,7 +30,7 @@ A-frame is an open source web framework for building 3d animations and allowing 
 ### How I tinkered with A-frame
 I started by making a [practice html file](../tool/a-frame.html) for A-frame. I went to the **installation** page on A-frame and installed A-frame by using the CDN:```<script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>```.
 I tried:
-```
+```html
  <a-scene>
       <a-assets>
         <img id="sky" src="sky.png">
