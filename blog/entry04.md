@@ -25,6 +25,11 @@ By using this class I was able to make my h1 have an animation called rubberBand
 
 
 ## [A-Frame](https://aframe.io/)
+#### Context
+A-frame is an open source web framework for building 3d animations and allowing people to make things more realistic. We are able to create reality expierences on a-frame by using html and css. A-frame can be used on all platforms and devices.
+### How I tinkered with A-frame
+I started by making a [practice html file](../tool/a-frame.html) for A-frame. I went to the **installation** page on A-frame and installed A-frame by using the CDN:```<script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>```.
+
 
 ## Engineering Design Process (EDP)
 I am working on step 4 of the Engineering Design Process where I will be learning how to use tools to help me with my Freedom Project. I will be using these tools to **create a prototype** for my Freedom project in step five.

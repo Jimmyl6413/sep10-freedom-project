@@ -3,6 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
+  <script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
   <title>A-Frame Practice</title>
   <style>
 
@@ -10,7 +11,32 @@
   </style>
 </head>
 <body>
+    <a-scene>
+      <a-assets>
+        <img id="sky" src="sky.png">
+      </a-assets>
+      <a-sky src="#sky"></a-sky>
+      <a-sky color="#6EBDC4"></a-sky>
 
+    <!-- Box -->
+    <a-box color= "black" width="8" height="4.5" depth="0.2" position="0 3 -7" >
+      <!-- Circle-->
+      <a-circle color="blue" position="2 0 0.11" side="double">
+
+      </a-circle>
+    </a-box>
+    <!-- Red Circle-->
+    <a-circle color="red" position="-2 3 -6.89" side="double">
+
+    </a-circle>
+
+    <!--Cylinder-->
+    <a-cylinder width="2" height="2" radius="2" open-ended="true" side="double" color="blue">
+
+    </a-cylinder>
+
+
+    </a-scene>
 
 </body>
 </html>
