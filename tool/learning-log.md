@@ -1,6 +1,6 @@
 # Tool Learning Log
 
-Tool: ** A-Frame & Animated.css**
+Tool: **A-Frame & Animated.css**
 
 ---
 
