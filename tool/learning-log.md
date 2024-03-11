@@ -12,9 +12,12 @@ February 26-29, 2024
 * I then moved on to the [Components](https://aframe.io/docs/1.5.0/core/component.html) of A-frame which I can LOYO on to see what is suited for this project.
 
 March 4-11, 2024
+* I imported animated.css through CDN to my LOYO practice on bootstrap components.
 * As I was doing my LOYO on bootstrap components I realized I can practice [Animated.css](https://animate.style/)to help to animate my bootstrap components.
 * By doing so I was able to tinker with my tool and LOYO at the same time. I was able to learn more about delays, durations, repeats, and more animated.css etc.
+* I used delays to delay the time that the text will fade in, in each section.
 * I implemented animations to my text, paragraphs, titles, navbar, and [more!](https://github.com/hstatsep-students/bootstrap-components-practice-Jimmyl6413/blob/main/index.html).
+* Take away: I was able to learn different components of bootstrap and then using the left over time to style what I made even more by using animated.css. I was able to make my website more interesting and catch the users attentions.
 
 
 
