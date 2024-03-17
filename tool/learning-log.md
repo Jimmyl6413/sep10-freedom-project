@@ -20,7 +20,9 @@ Tool: **A-Frame & Animated.css**
 * Take away: I was able to learn different components of bootstrap and then using the left over time to style what I made even more by using animated.css. I was able to make my website more interesting and catch the users attentions.
 
 ## March 11-18, 2024
-* I was able get a better understanding of animated.css by [watching](https://www.youtube.com/watch?v=VzbBcVRquYA) a video. I usually undertstand something better when it's explained to me so this was very helpful. 
+* I was able get a better understanding of animated.css by [watching](https://www.youtube.com/watch?v=VzbBcVRquYA) a video. I usually undertstand something better when it's explained to me so this was very helpful.
+* Practiced more Animated.css in my SHABR project.
+* Practiced A-frame with my FP partner Joe who helped me understand the different scaling and positioning in A-frame.
 
 
 
