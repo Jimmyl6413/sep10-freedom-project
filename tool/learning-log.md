@@ -24,6 +24,10 @@ Tool: **A-Frame & Animated.css**
 * Practiced more Animated.css in my SHABR project.
 * Practiced A-frame with my FP partner Joe who helped me understand the different scaling and positioning in A-frame.
 
+## March 18-25, 2024
+* I learned how to make different environments using a-frame by watching [this](https://www.youtube.com/watch?v=K_1RdCVuu98), which I was able to understand very well.
+* I also learned that we can view the a-frame inspecter by clicking Control + alt I on the keyboard. It was very helpful and saved me a lot of time.
+*
 
 
 
