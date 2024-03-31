@@ -27,7 +27,11 @@ Tool: **A-Frame & Animated.css**
 ## March 18-25, 2024
 * I learned how to make different environments using a-frame by watching [this](https://www.youtube.com/watch?v=K_1RdCVuu98), which I was able to understand very well.
 * I also learned that we can view the a-frame inspecter by clicking Control + alt I on the keyboard. It was very helpful and saved me a lot of time.
-*
+
+## March 25 --> April 2, 2024
+* I was able to learn how to import external models into a-frame through watching [this](https://www.youtube.com/watch?v=h9uAXlrPUzs) video. This video was very helpful as the person in the video expierenced a problem while trying to import his model into a-frame.
+* He taught me how to solve issues and how to import external models into a-frame.
+* 
 
 
 
