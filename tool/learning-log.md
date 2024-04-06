@@ -31,7 +31,13 @@ Tool: **A-Frame & Animated.css**
 ## March 25 --> April 2, 2024
 * I was able to learn how to import external models into a-frame through watching [this](https://www.youtube.com/watch?v=h9uAXlrPUzs) video. This video was very helpful as the person in the video expierenced a problem while trying to import his model into a-frame.
 * He taught me how to solve issues and how to import external models into a-frame.
-* 
+
+## April 3-8
+* Tried making a draft of what I wanted on a-frame. I plan on adding more details later with Joe.
+* imported models of cars using assets and entitys
+* Learned how to make my backgrounds in a-frame a image instead of colors.
+* learned to place objects or models made from another [website](https://www.youtube.com/watch?v=nRK6-FKobis).
+
 
 
 
