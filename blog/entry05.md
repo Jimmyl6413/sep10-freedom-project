@@ -18,8 +18,15 @@ After choosing my tools that I will be using for my Freedom Project, I began tin
 ```
 I implemented animations to my text, paragraphs, titles, navbar, and [more!](https://github.com/hstatsep-students/bootstrap-components-practice-Jimmyl6413/blob/main/index.html).
 
+I was still confused about some parts of animated.css but I was able get a better understanding of animated.css by [watching](https://www.youtube.com/watch?v=VzbBcVRquYA) a video. I usually undertstand something better when it's explained to me so this was very helpful.
+
 ### Takeaways
-I was able to learn different components of bootstrap and then using the left over time to style what I made even more by using animated.css. I was able to make my website more interesting and catch the users attentions.
+I was able to learn different components of bootstrap and then using the left over time to style what I made even more by using animated.css. By doing so, I was able to make my website more interesting and catch the users attentions. I countinued on practicing animated.css
+
+## Process of learning A-frame
+
+
+
 
 
 
