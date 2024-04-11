@@ -1,11 +1,16 @@
-# Plan
+# Freedom Project Plan
 
+## Bootstrap
+* Navbar
+* Cards
+* Pagination
+* Grids & Containers
 ## Wireframes
-* [Mobile]()
-* [Desktop]()
+* [Mobile](https://wireframe.cc/4TrfoG) - Joe Zheng
+* [Desktop](https://wireframe.cc/fwQSVN) - Jimmy Li
 
 ## Colors
-* `#ABC123`
+*
 
 ## Fonts
 * [Text](URL)
