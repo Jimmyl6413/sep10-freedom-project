@@ -13,10 +13,10 @@
 *
 
 ## Fonts
-* [Text](URL)
+* [Tapestry Font](https://fonts.google.com/specimen/Tapestry)
 
 ## Timeline
-
+* Finish coding MVP for Freedom Project during spring break April 20-30.
 #### MVP
 
 * Task/Timeline
