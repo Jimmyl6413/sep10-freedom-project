@@ -24,6 +24,18 @@ I was still confused about some parts of animated.css but I was able get a bette
 I was able to learn different components of bootstrap and then using the left over time to style what I made even more by using animated.css. By doing so, I was able to make my website more interesting and catch the users attentions. I countinued on practicing animated.css
 
 ## Process of learning A-frame
+I starting by looking through the different documents of a-frame and tried to make an environment or multiple environments that will suit in my Freedom Project.I learned how to make different environments using a-frame by watching [this](https://www.youtube.com/watch?v=K_1RdCVuu98), which I was able to understand very well.
+
+```html
+<head>
+ <script src="https://unpkg.com/aframe-environment-component/dist/aframe-environment-component.min.js"></script>
+
+</head>
+<a-entity environment="preset: forest; dressingAmount: 500"></a-entity>
+<a-scene>
+
+```
+I also learned that we can view the a-frame inspecter by clicking Control + alt I on the keyboard. It was very helpful and saved me a lot of time.
 
 
 
