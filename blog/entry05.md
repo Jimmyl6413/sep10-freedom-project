@@ -43,6 +43,15 @@ I also learned that we can view the a-frame inspecter by clicking Control + alt 
 It's the same thing as adding an environment but instead we need the ```src``` and the image link.
 
 
+## Skills
+
+### LOYO - Learn On Your Own
+Over the course of 5 week we had to learn our own tool that we picked for the Freedom Project. For me, I picked animated.css and a-frame which were 2 great tools when it came to making basic models and designing websites. I tinkered with my tools until I got comfortable with my tool. Codes that i didn't understand, I would go on youtube and look for explanations or solutions. Using youtube helped a lot as there were a variety of videos to choose from that had clear explanation
+
+### Use Youtube Efficiently
+When I was stuck on some code in animated.css or a-frame that I didn't undertsand, I would go on Youtube and search for solutions. Youtube is a great place to look for solutions because there is actually somebody explaining and teaching the topic you want to know or don't understand. There is a variety of videos to choose from and of course I don't have time to watch every single video that pops up. I would just skim through the titles of the video and look for one that is similar to what I searched.
+
+
 
 
 
