@@ -35,7 +35,13 @@ I starting by looking through the different documents of a-frame and tried to ma
 <a-scene>
 
 ```
-I also learned that we can view the a-frame inspecter by clicking Control + alt I on the keyboard. It was very helpful and saved me a lot of time.
+I also learned that we can view the a-frame inspecter by clicking Control + alt + I on the keyboard. By using control + alt + I, I was able to change my environment according to my likings. It was very helpful and saved me a lot of time. As I as exploring the different environments that I can use, I also found out how to use images as a background for a-frame.
+
+```html
+<a-sky src="https://t3.ftcdn.net/jpg/00/81/26/82/360_F_81268225_eVHynMTlVQf3wVdYOoUEz8d8KolhVZm0.jpg"></a-sky>
+```
+It's the same thing as adding an environment but instead we need the ```src``` and the image link.
+
 
 
 
