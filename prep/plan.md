@@ -10,7 +10,7 @@
 * [Desktop](https://wireframe.cc/fwQSVN) - Jimmy Li
 
 ## Colors
-
+* N/A
 ## Fonts
 * [Tapestry Font](https://fonts.google.com/specimen/Tapestry)
 * [PT Serif](https://fonts.google.com/specimen/PT+Serif)
