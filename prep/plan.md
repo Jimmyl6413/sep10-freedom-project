@@ -23,7 +23,7 @@
 * 4/16/24 Start working on A-Frame portion of webpage
 * 4/17/24 - Continue to focus on A-Frame
 #### MVP
-* Finish coding MVP for Freedom Project during spring break, April 20-30.
+* Finish coding MVP for Freedom Project during spring break, April 18-30.
 
 
 #### Beyond MVP
