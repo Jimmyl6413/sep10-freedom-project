@@ -42,3 +42,10 @@ Traveling has been a dream for many throughout the years. Going through new plac
   * Includes a long-lasting battery life
      * [Image](https://gadgetsin.com/uploads/2020/03/crazycap_self_cleaning_water_bottle_with_uv_water_purifier_cap_2.jpg)
 ## Part B: possible future technology
+
+* Improvement in vehicles
+  * Instead of floating cars we can have a brand new vehicle that can do anything such as flying, going on water or underwater, and powered by electricity.
+  * We can achieve this goal by adding a powerful engine to the vehicle that can support a long flying distance.
+  * Everything needs to be waterproof and we need a powerful motor.
+This can allow people to go on a vacation without planning. Just get on the vehicle and go!
+
