@@ -41,4 +41,16 @@ Traveling has been a dream for many throughout the years. Going through new plac
   * Built-in hydration reminders (prevents you from being dehydrated)
   * Includes a long-lasting battery life
      * [Image](https://gadgetsin.com/uploads/2020/03/crazycap_self_cleaning_water_bottle_with_uv_water_purifier_cap_2.jpg)
+
+* Solis Lite Portable Mobile Hotspot (Hardware)
+  * Reliable WiFi that covers over 135 countries
+  * Includes many flexible WiFi plans
+  * Guarantees 16+ hours of WiFi without charging
+  * Able to connect to 10 devices
+  * Functions without Sim Cards
+    * [Image](https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6491/6491688cv17d.jpg)
+
+
 ## Part B: possible future technology
+* Consolidation invention
+  * A portable charger that has plugs, a fan, and wireless WiFi feature.
