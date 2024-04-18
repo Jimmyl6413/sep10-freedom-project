@@ -41,7 +41,30 @@ Traveling has been a dream for many throughout the years. Going through new plac
   * Built-in hydration reminders (prevents you from being dehydrated)
   * Includes a long-lasting battery life
      * [Image](https://gadgetsin.com/uploads/2020/03/crazycap_self_cleaning_water_bottle_with_uv_water_purifier_cap_2.jpg)
+
+* Solis Lite Portable Mobile Hotspot (Hardware)
+  * Reliable WiFi that covers over 135 countries
+  * Includes many flexible WiFi plans
+  * Guarantees 16+ hours of WiFi without charging
+  * Able to connect to 10 devices
+  * Functions without Sim Cards
+    * [Image](https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6491/6491688cv17d.jpg)
+
+
+* Sony WH-1000XM5
+  * Cancels out noises around you
+  * Ensures peace on long-distance trips
+  * Can last up to 30 hours if fully charged
+  * Very durable
+  * Easy on the ear, so that after wearing it for a long time the ear won’t feel pain or tired.
+  * Lightweight (250g)
+    *[Image](https://www.stuff.tv/wp-content/uploads/sites/2/2017/06/Stuff-Best-Noise-Cancelling-Headphones-ANC-Earphones.png)
+
+
+
 ## Part B: possible future technology
+* Consolidation invention
+  * A portable charger that has plugs, a fan, and wireless WiFi feature.
 
 * Improvement in vehicles
   * Instead of floating cars we can have a brand new vehicle that can do anything such as flying, going on water or underwater, and powered by electricity.
