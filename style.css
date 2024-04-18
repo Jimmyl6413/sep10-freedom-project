@@ -5,3 +5,16 @@
 .tapestry {
     font-family: Tapestry;
 }
+.carousel-inner > .item > img {
+    width:640px;
+    height:360px;
+  }
+.color {
+    background-color: lightblue;
+    border-radius: 20px;
+}
+
+.word {
+    font-size: 30px;
+    text-align: center;
+}
