@@ -18,3 +18,16 @@
     font-size: 30px;
     text-align: center;
 }
+
+.width {
+    width:1000px;
+}
+
+.background {
+    background-image: url(img/nyc3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:850px;
+    width:auto;
+}
+
