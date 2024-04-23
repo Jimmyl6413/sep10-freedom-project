@@ -34,3 +34,13 @@
 .center1 {
     text-align:center;
 }
+
+@media (min-width:1200px){
+    .background {
+        background-image: url(img/sunset.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height:950px;
+        width:auto;
+    }
+}
