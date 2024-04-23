@@ -52,8 +52,17 @@
     font-weight: bold;
     border-radius: 5px;
    }
-   
+
   .pagination a:hover:not(.active){
     background-color: grey;
     border-radius: 5px;
   }
+@media (min-width:1200px){
+    .background {
+        background-image: url(img/sunset.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height:950px;
+        width:auto;
+    }
+}
