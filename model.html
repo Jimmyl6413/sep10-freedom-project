@@ -1,0 +1,17 @@
+<html>
+  <head>
+    <script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+        <a-assets>
+            <img src="img/sky.jpg" id="1">
+            <a-asset-item id="tower" response-type="arraybuffer" src="https://cdn.glitch.global/349fbe3a-aa09-4e18-b4de-d529d8c38325/chargerblender1.glb?v=1714085437728"></a-asset-item>
+          </a-assets>
+            <a-entity gltf-model="#tower" position="0 2 0"></a-entity>
+            <a-camera position="5 4 7" wasd-controls= "acceleration:35; fly: true;"></a-camera>
+            <a-sky src="#1"></a-sky>
+    </a-scene>
+  </body>
+</html>
+
