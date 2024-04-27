@@ -76,3 +76,15 @@
         padding:10px;
     }
 }
+
+.card-body2 {
+    height:470px;
+    padding: var(--bs-card-spacer-y) var(--bs-card-spacer-x);
+    var(--bs-card-color);
+}
+
+.card-body3 {
+    height:470px;
+    padding: var(--bs-card-spacer-y) var(--bs-card-spacer-x);
+    var(--bs-card-color);
+}
