@@ -2,13 +2,18 @@
     font-family: PT Serif;
 }
 
+/* body {
+    background: linear-gradient(
+                             to right,
+                            #1abc9c, #3498db);
+} */
+
+
 .tapestry {
     font-family: Tapestry;
 }
-.carousel-inner > .item > img {
-    width:640px;
-    height:360px;
-  }
+
+
 .color {
     background-color: #F3AE1A ;
     border-radius:2px;
@@ -77,8 +82,17 @@
     }
 }
 
-(Navbar)
 
+
+
+(Responive navbar)
+
+.nav-brand {
+    font-weight: 750;
+    color: orange;
+    font-size: 24px;
+    transition: 0.3s color;
+}
 .navbar-toggler {
     border: none;
     font-size: 1.25rem;
@@ -90,7 +104,7 @@
 
 .nav-link {
     color: #666777;
-    font-weight: 500;
+    font-weight: 750;
     position: relative;
 }
 
@@ -98,20 +112,8 @@
     color: white;
 }
 
-.nav-link::before {
-    content: "";
-    position: absolute;
-    bottom: 0;
-    left: 50%;
-    transform: translateX(-50%);
-    width: 100%;
-    height: 2px;
-    background-color: lightblue;
-}
 
-
-
-@media (min-width:991px) {
+@media (min-width: 991px) {
     .nav-link::before{
         content: "";
         position: absolute;
@@ -130,3 +132,5 @@
         visibility: visible;
     }
 }
+
+//* end of responsive navbar
