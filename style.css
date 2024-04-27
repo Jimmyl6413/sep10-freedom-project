@@ -2,13 +2,18 @@
     font-family: PT Serif;
 }
 
+/* body {
+    background: linear-gradient(
+                             to right,
+                            #1abc9c, #3498db);
+} */
+
+
 .tapestry {
     font-family: Tapestry;
 }
-.carousel-inner > .item > img {
-    width:640px;
-    height:360px;
-  }
+
+
 .color {
     background-color: #F3AE1A ;
     border-radius:2px;
@@ -88,3 +93,61 @@
     padding: var(--bs-card-spacer-y) var(--bs-card-spacer-x);
     var(--bs-card-color);
 }
+
+.card-body4 {
+    height:462px;
+    padding: var(--bs-card-spacer-y) var(--bs-card-spacer-x);
+    var(--bs-card-color);
+}
+
+
+
+(Responive navbar)
+
+.nav-brand {
+    font-weight: 750;
+    color: orange;
+    font-size: 24px;
+    transition: 0.3s color;
+}
+.navbar-toggler {
+    border: none;
+    font-size: 1.25rem;
+}
+.navbar-toggler:focus, .btn-close:focus {
+    box-shadow: none;
+    outline: none;
+}
+
+.nav-link {
+    color: #666777;
+    font-weight: 750;
+    position: relative;
+}
+
+.nav-link:hover, .nav-link.active {
+    color: white;
+}
+
+
+@media (min-width: 991px) {
+    .nav-link::before{
+        content: "";
+        position: absolute;
+        bottom: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 0;
+        height: 2px;
+        background-color: lightblue;
+        visibility: hidden;
+        transition: 0.3s ease-in-out;
+    }
+
+    .nav-link:hover::before, .nav-link.active:before {
+        width: 100%;
+        visibility: visible;
+    }
+}
+
+//* end of responsive navbar

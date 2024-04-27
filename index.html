@@ -23,20 +23,59 @@
 
         </style>
 
-        <title>Travel</title>
+        <title>Travel with Happiness</title>
     </head>
     <body>
         <!-- HTML -->
+
+
 <!-- Navbar -->
 
-<nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
+<nav class="navbar navbar-expand-lg bg-dark navbar-dark fixed-top">
   <div class="container-fluid">
-      <a class="navbar-brand size" href="#"></a>
+    <a class="navbar-brand me-auto" href="#">Travel</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="offcanvas offcanvas-end bg-dark" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+      <div class="offcanvas-header">
+        <h5 class="offcanvas-title" id="offcanvasNavbarLabel" style="color: white;">Travel</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+      </div>
+      <div class="offcanvas-body">
+        <ul class="navbar-nav justify-content-center flex-grow-1 pe-3">
+          <li class="nav-item">
+            <a class="nav-link mx-lg-2" aria-current="page" href="#1">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link mx-lg-2 " href="#4">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link mx-lg-2" href="#2">Current Innovations</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link mx-lg-2 " href="#3">Future Innovations</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</nav>
+
+
+
+
+
+
+
+<!-- <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
+  <div class="container-fluid">
+      <a class="navbar-brand me-auto" href="#">Travel</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-        <div class="navbar-nav">
+        <div class="navbar-nav" style="justify-content: center; display: flex; width: 100%; margin: auto;">
           <a style="padding:15px;" class="nav-link active" aria-current="page" href="#1">Home</a>
           <a style="padding:15px;" class="nav-link active" href="#4">About</a>
           <a style="padding:15px;" class="nav-link active" href="#2">Current Innovations</a>
@@ -44,8 +83,11 @@
        </div>
       </div>
     </div>
-  </nav>
+  </nav> -->
 
+
+
+<!-- Content -->
   <section>
   <div class="background width" id="1">
     <div class="container">
@@ -61,11 +103,11 @@
 
        <div id="4">
        </div>
-    <section style="padding-top:70px; background: #FAFAFA;">
+    <section style="padding-top:70px;">
       <div class="container">
           <div class="row">
             <div class="col">
-            <h1 style="font-size:45px;" class="word color">An Introductory</h1>
+            <h1 style="font-size:45px;" class="word">An Overview</h1>
             </div>
           </div>
           <div class="row">
@@ -77,7 +119,7 @@
       </div>
     </section>
 
-<section>
+<section style="background: #FAFAFA;">
   <div class="container" id="2">
     <div class="row">
       <div class="col">
@@ -88,7 +130,7 @@
      </div>
   </div>
 </section>
-  <div style="padding-top:20px; padding-left:100px;"class="container">
+  <div style="padding-top:20px; padding-left:100px;" class="container">
     <div class="row">
       <div class="col">
     <!--Navan-->
@@ -131,34 +173,36 @@
   <div class="col" style="padding-top:40px;">
     <div class="card" style="width: 30rem;">
       <img src="img/sapconcur1.jpg" class="card-img-top" alt="Try again later!">
-      <div class="card-body">
+      <div class="card-body3">
         <h5 class="card-title">SAP Concur</h5>
-        <p class="card-text"><strong>Description:</strong> SAP Concur is an app developed dedicated specifically for travel. The app was created in 2011 and has various features that sastifies most of its users. Here are some of the notable characteristics:  </p>
+        <p class="card-text"><strong>Description:</strong> SAP Concur is an app developed specifically for travel. The app was created in 2011 and has various features that sastifies most of its users. Here are some of the notable characteristics:  </p>
         <ul>
-          <li>Includes a reporting system regarding traveling </li>
-          <li>Contains a budget system which helps out with decision making for trips</li>
+          <li>Contains a budget and reporting system that helps out with decision-making and minimizing conflicts regarding trips</li>
           <li>Is easy to create variety of trips at any rate (convenience)</li>
           <li>All sections are designed to be user-friendly and interactive</li>
           <li>Has a "solution" feature that simplifies flight plans based on selected preferences</li>
+          <li>Includes a detect feature that improves safety when making expenses reports</li>
         </ul>
         <a href="https://www.concur.com/" target="blank" class="btn btn-primary">Check it out!</a>
       </div>
      </div>
     </div>
-
+<!--Travel and Leisure-->
     <div class="col" style="padding-top:40px;">
       <div class="card" style="width: 30rem;">
         <img src="img/travel101.png" class="card-img-top" alt="Try again later!">
-        <div class="card-body">
+        <div class="card-body4">
           <h5 class="card-title">Travel and Leisure</h5>
-          <p class="card-text"><strong>Description:</strong> Travel and Leisure is a software created in 1998 that focuses on travel. The website is well-regarded given that it has many unqiue features of educating and informing audiences. These are the most distinctive ones:</p>
+          <p class="card-text"><strong>Description:</strong> Travel and Leisure is a software created in 1998 that focuses on travel. The website is well-regarded given that it has many unqiue features of educating and informing audiences. These are the most distinctive ones shown:</p>
           <ul>
-            <li>Provides thousands of articles regarding travel (influences the ideas of users)</li>
-            <li>Includes the best travel options and plans</li>
-            <li>Has various informative sections (from accessories to the needed tools for a vacation)</li>
-            <li>Includes an advisor section that is designed to comfort users for travel anxiety (costs, schedule time, delays, admission guidance) </li>
+            <li>Provides thousands of articles regarding travel (plays an influences in the ideas of users)</li>
+            <li>Includes a checking system that authorizes the credibility of all information displayed</li>
+            <li>Has various informative sections (from accessories to the needed tools for a vacation) that comes in handy during trip preparations</li>
+            <li>Includes an advisor section that is designed to comfort users for travel anxiety (costs, schedule times, admissions)</li>
           </ul>
+          <div style="padding-top:15px;">
           <a href="https://www.travelandleisure.com/" target="blank" class="btn btn-primary">Check it out!</a>
+          </div>
         </div>
        </div>
     </div>
@@ -293,7 +337,7 @@
 
 
   <!-- Future Inventions -->
-  <div class="container" style="padding-top:150px;">
+  <div class="container" style="padding-top:150px;" id="3">
       <div class="row">
         <div class="col">
           <div>
@@ -305,7 +349,7 @@
     </div>
   </div>
   <section>
-  <iframe src="model.html" title="Visual" style="width:1550px; height:500px; padding-left:350px;"></iframe>
+  <iframe src="model.html" title="Visual" style="width:1150px; height:500px; padding-left:350px;"></iframe>
   </section>
     <!--
 <section>
@@ -370,7 +414,10 @@
         <!-- <script src="script.js"></script> -->
         <script>
             // JS
-
+          // const checkbox = document.getElementById("checkbox")
+          // checkbox.addEventListener("change", () => {
+          //   document.body.classList.toggle("dark-mode")
+          // })
 
         </script>
     </body>
