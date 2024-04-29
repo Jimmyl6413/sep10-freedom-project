@@ -130,6 +130,11 @@
         width:auto;
     }
 
+    iframe {
+        height:500px;
+        width:1480px;
+        padding-left:220px;
+    }
 }
 
 @media (min-width: 991px){
@@ -159,6 +164,22 @@
         box-shadow: 0 3px 10px rgba(0 0 0 0.15);
     }
 
+}
+
+@media (min-width:910px) and (max-width:1199px){
+    iframe {
+        height:500px;
+        width:910px;
+        padding-left:120px;
+    }
+}
+@media (max-width:900px){
+        iframe{
+            padding-left:0px;
+            width:760px;
+            height:500px;
+        }
+}
 
 @media (max-width:676px) {
 
@@ -170,14 +191,21 @@
         height:600px;
     }
 
-    .visual {
-        padding-right:445px;
+    iframe {
+        padding-left:35px;
         height:550px;
         width:500px;
     }
 
 }
 
+@media (max-width:376px){
+    iframe{
+        padding-left:20px;
+        height:350px;
+        width:350px;
+    }
+}
 
 .height2 {
     height: 377px;
@@ -210,7 +238,12 @@
 
 
 
-
+.visual {
+    padding-left:300px;
+    width:1390px;
+    height:500px;
+}
 
 //* end of responsive navbar
+
 
