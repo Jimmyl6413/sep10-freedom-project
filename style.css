@@ -44,24 +44,24 @@
     display: block;
     margin: 0 auto;
    }
-
-   .pagination a{
+.pagination a{
     color: black;
     text-decoration: none;
     padding: 8px 15px;
     display: inline-block;
    }
 
-   .pagination a.active{
+.pagination a.active{
     background-color: lightgreen;
     font-weight: bold;
     border-radius: 5px;
    }
 
-  .pagination a:hover:not(.active){
+.pagination a:hover:not(.active){
     background-color: grey;
     border-radius: 5px;
   }
+
 @media (min-width:1200px){
     .background {
         background-image: url(img/sunset.jpg);
@@ -70,16 +70,39 @@
         height:950px;
         width:auto;
     }
+
 }
 
-@media (max-width:576px;){
+@media (min-width:576px; max-width:800px;){
+    .rem {
+        width:18rem;
+    }
+}
+
+@media (max-width:576px){
     div {
         margin:auto;
         padding:auto;
     }
-    .col {
-        padding:10px;
+
+    .rem {
+        width:auto;
     }
+
+}
+
+
+.padding {
+    padding-top:20px;
+    padding-left:155px;
+}
+
+.rem {
+    width:30rem;
+}
+
+.spacing {
+    line-height: 2.5;
 }
 
 .card-body2 {
@@ -100,7 +123,11 @@
     var(--bs-card-color);
 }
 
-
+.border {
+    border-style:dashed;
+    border-width:5px;
+    border-color:black;
+}
 
 (Responive navbar)
 
@@ -151,3 +178,4 @@
 }
 
 //* end of responsive navbar
+
