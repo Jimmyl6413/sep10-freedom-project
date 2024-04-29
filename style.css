@@ -73,41 +73,46 @@
 
 }
 
-@media (min-width:576px; max-width:800px;){
-    .rem {
-        width:18rem;
+@media (min-width: 991px) {
+    .nav-link::before{
+        content: "";
+        position: absolute;
+        bottom: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 0;
+        height: 2px;
+        background-color: lightblue;
+        visibility: hidden;
+        transition: 0.3s ease-in-out;
     }
+
+
+@media (max-width:676px) {
+
+    .height {
+        height:600px;
+    }
+
+    .height2 {
+        height:600px;
+    }
+
+    .visual {
+        padding-right:445px;
+        height:550px;
+        width:500px;
+    }
+
 }
 
-@media (max-width:576px){
-    div {
-        margin:auto;
-        padding:auto;
-    }
 
-    .rem {
-        width:auto;
-    }
-
-    .cardbody2 {
-        height:700px;
-        padding: var(--bs-card-spacer-y) var(--bs-card-spacer-x);
-        var(--bs-card-color);
-    }
-    .cardbody3 {
-        height:500px;
-        padding: var(--bs-card-spacer-y) var(--bs-card-spacer-x);
-        var(--bs-card-color);
-    }
-    .cardbody4 {
-        height:500px;
-        padding: var(--bs-card-spacer-y) var(--bs-card-spacer-x);
-        var(--bs-card-color);
-    }
-
+.height2 {
+    height: 377px;
 }
-
-
+.height {
+    height:415px;
+}
 .padding {
     padding-top:20px;
     padding-left:120px;
@@ -124,23 +129,6 @@
     line-height: 2.5;
 }
 
-.card-body2 {
-    height:378px;
-    padding: var(--bs-card-spacer-y) var(--bs-card-spacer-x);
-    var(--bs-card-color);
-}
-
-.card-body3 {
-    height:415px;
-    padding: var(--bs-card-spacer-y) var(--bs-card-spacer-x);
-    var(--bs-card-color);
-}
-
-.card-body4 {
-    height:420px;
-    padding: var(--bs-card-spacer-y) var(--bs-card-spacer-x);
-    var(--bs-card-color);
-}
 
 .border {
     border-style:dashed;
@@ -148,7 +136,11 @@
     border-color:black;
 }
 
-(Responive navbar)
+.visual{
+    width:1250px;
+    height:500px;
+    padding-left:445px;
+}
 
 .nav-brand {
     font-weight: 750;
@@ -160,6 +152,7 @@
     border: none;
     font-size: 1.25rem;
 }
+
 .navbar-toggler:focus, .btn-close:focus {
     box-shadow: none;
     outline: none;
@@ -176,25 +169,7 @@
 }
 
 
-@media (min-width: 991px) {
-    .nav-link::before{
-        content: "";
-        position: absolute;
-        bottom: 0;
-        left: 50%;
-        transform: translateX(-50%);
-        width: 0;
-        height: 2px;
-        background-color: lightblue;
-        visibility: hidden;
-        transition: 0.3s ease-in-out;
-    }
-
-    .nav-link:hover::before, .nav-link.active:before {
+.nav-link:hover::before, .nav-link.active:before {
         width: 100%;
         visibility: visible;
     }
-}
-
-//* end of responsive navbar
-
