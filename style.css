@@ -47,7 +47,7 @@
 }
 
 .nav-link {
-    color: #CDD4D6;
+    color: 	#666777;
     font-weight: 750;
     position: relative;
 }
@@ -66,7 +66,7 @@
         transform: translateX(-50%);
         width: 0;
         height: 2px;
-        background-color: #F9F621;
+        background-color: #e7be3a;
         visibility: hidden;
         transition: 0.3s ease-in-out;
     }
@@ -74,14 +74,6 @@
     .nav-link:hover::before, .nav-link.active:before {
         width: 100%;
         visibility: visible;
-    }
-
-    .navbar {
-        transition: all 0.5s;
-    }
-     .navbar-scrolled {
-        background-color: black;
-        box-shadow: 0 3px 10px rgba(0 0 0 0.15);
     }
 
 }
@@ -137,34 +129,6 @@
     }
 }
 
-@media (min-width: 991px){
-    .nav-link::before{
-        content: "";
-        position: absolute;
-        bottom: 0;
-        left: 50%;
-        transform: translateX(-50%);
-        width: 0;
-        height: 2px;
-        background-color: #F9F621;
-        visibility: hidden;
-        transition: 0.3s ease-in-out;
-    }
-
-.nav-link:hover::before, .nav-link.active:before {
-        width: 100%;
-        visibility: visible;
-    }
-
-    .navbar {
-        transition: all 0.5s;
-    }
-     .navbar-scrolled {
-        background-color: black;
-        box-shadow: 0 3px 10px rgba(0 0 0 0.15);
-    }
-
-}
 
 @media (min-width:910px) and (max-width:1199px){
     iframe {
