@@ -32,9 +32,6 @@
     width: 1000px;
 }
 
-(Responive navbar)
-
-
 .nav-brand {
     font-weight: 750;
     color: orange;
@@ -51,7 +48,7 @@
 }
 
 .nav-link {
-    color: #CDD4D6;
+    color: 	#666777;
     font-weight: 750;
     position: relative;
 }
@@ -70,7 +67,7 @@
         transform: translateX(-50%);
         width: 0;
         height: 2px;
-        background-color: #F9F621;
+        background-color: #e7be3a;
         visibility: hidden;
         transition: 0.3s ease-in-out;
     }
@@ -78,14 +75,6 @@
     .nav-link:hover::before, .nav-link.active:before {
         width: 100%;
         visibility: visible;
-    }
-
-    .navbar {
-        transition: all 0.5s;
-    }
-     .navbar-scrolled {
-        background-color: black;
-        box-shadow: 0 3px 10px rgba(0 0 0 0.15);
     }
 
 }
@@ -125,6 +114,15 @@
     border-radius: 5px;
   }
 
+@media (min-width:1400px){
+    iframe {
+        padding-top:35px;
+        height:500px;
+        width:1500px;
+        padding-left:400px;
+    }
+}
+
 @media (min-width:1200px){
     .background {
         background-image: url(img/sunset.jpg);
@@ -135,52 +133,36 @@
     }
 
     iframe {
+        padding-top:35px;
         height:500px;
-        width:1480px;
-        padding-left:220px;
+        width:1100px;
+        padding-left:110px;
     }
 }
 
-@media (min-width: 991px){
-    .nav-link::before{
-        content: "";
-        position: absolute;
-        bottom: 0;
-        left: 50%;
-        transform: translateX(-50%);
-        width: 0;
-        height: 2px;
-        background-color: #F9F621;
-        visibility: hidden;
-        transition: 0.3s ease-in-out;
-    }
-
-.nav-link:hover::before, .nav-link.active:before {
-        width: 100%;
-        visibility: visible;
-    }
-
-    .navbar {
-        transition: all 0.5s;
-    }
-     .navbar-scrolled {
-        background-color: black;
-        box-shadow: 0 3px 10px rgba(0 0 0 0.15);
-    }
-
-}
 
 @media (min-width:910px) and (max-width:1199px){
     iframe {
+        padding-top:35px;
         height:500px;
         width:910px;
         padding-left:120px;
     }
+
+    .background {
+        background-image: url(img/sunset.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height:900px;
+        width:auto;
 }
+}
+
 @media (max-width:900px){
         iframe{
-            padding-left:0px;
-            width:760px;
+            padding-top:35px;
+            padding-left:150px;
+            width:660px;
             height:500px;
         }
 }
@@ -197,14 +179,24 @@
 
     iframe {
         padding-left:35px;
+        padding-top:20px;
         height:550px;
         width:500px;
     }
 
+    .background {
+        background-image: url(img/sunset.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height:580px;
+        width:auto;
+
+}
 }
 
 @media (max-width:376px){
     iframe{
+        padding-left:35px;
         padding-left:20px;
         height:350px;
         width:350px;
@@ -242,12 +234,6 @@
 
 
 
-.visual {
-    padding-left:300px;
-    width:1390px;
-    height:500px;
-}
 
-//* end of responsive navbar
 
 
