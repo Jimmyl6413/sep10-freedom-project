@@ -130,6 +130,14 @@
         width:1350px;
         padding-left:200px;
     }
+
+    .background {
+        background-image: url(img/sunset.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height:1000px;
+        width:auto;
+}
 }
 
 @media (min-width:1200px) and (max-width:1399px){
