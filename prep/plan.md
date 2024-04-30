@@ -10,9 +10,7 @@
 * [Desktop](https://wireframe.cc/fwQSVN) - Jimmy Li
 
 ## Colors
-* Orange & White
-* Dark Red
-* Brown (TBD)
+* Black & White (Could change for beyond MVP)
 ## Fonts
 * [Tapestry Font](https://fonts.google.com/specimen/Tapestry)
 * [PT Serif](https://fonts.google.com/specimen/PT+Serif)
