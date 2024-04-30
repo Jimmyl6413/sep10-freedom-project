@@ -119,11 +119,11 @@
         padding-top:35px;
         height:500px;
         width:1500px;
-        padding-left:400px;
+        padding-left:200px;
     }
 }
 
-@media (min-width:1200px){
+@media (min-width:1200px) and (max-width:1399px){
     .background {
         background-image: url(img/sunset.jpg);
         background-repeat: no-repeat;
