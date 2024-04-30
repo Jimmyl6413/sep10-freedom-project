@@ -2,12 +2,16 @@
     font-family: PT Serif;
 }
 
-/* body {
+ .back1 {
     background: linear-gradient(
                              to right,
                             #1abc9c, #3498db);
-} */
+}
 
+.back {
+    background: linear-gradient(to right, #e0a47a, #d1a071
+    );
+}
 
 .tapestry {
     font-family: Tapestry;
