@@ -1,4 +1,4 @@
-# Entry 5
+# Entry 5: Tinkering with Animated.css and A-frame
 ##### April 8, 2024
 
 ### Update

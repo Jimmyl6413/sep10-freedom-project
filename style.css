@@ -2,14 +2,20 @@
     font-family: PT Serif;
 }
 
- .back1 {
+ .pink {
     background: linear-gradient(
                              to right,
-                            #1abc9c, #3498db);
+                             #D4145A, #FBB03B);
 }
 
 .back {
     background: linear-gradient(to right, #e0a47a, #d1a071
+    );
+}
+
+
+.black {
+    background: linear-gradient(to right, #662D8C, #ED1E79
     );
 }
 

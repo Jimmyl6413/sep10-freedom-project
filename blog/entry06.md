@@ -1,7 +1,7 @@
 # Entry 6
-##### X/X/XX
+##### May 1, 2024
+### Update
 
-Text
 
 [Previous](entry05.md) | [Next](entry07.md)
 
