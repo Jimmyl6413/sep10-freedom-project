@@ -9,7 +9,23 @@ In this blog I willbe going through different challenges and success while codin
 ## Skills
 
 ### Contribution
-Contributing to the FP was very important because I was working with a partner and we both had our own parts to code. No body was gonna do all the work and let you benefit from their work. For me, I was in charge of all the design, layout, and navbar of the website while my partner, Joe was in charge of responsivness of the website and information to make sure that our website has what it needs and everything matches the topic we are trying to express. Contribution is crucial when it comes to working as a team because if you are lacking or your team is lacking then it would just be a total disaster as work pile up.
+Contributing to the FP was very important because I was working with a partner and we both had our own parts to code. No body was gonna do all the work and let you benefit from their work. For me, I was in charge of all the design, layout, and navbar of the website while my partner, Joe was in charge of responsivness of the website and information to make sure that our website has what it needs and everything matches the topic we are trying to express. Contribution is crucial when it comes to working as a team because if you are lacking or your team is lacking then it would just be a total disaster as work pile up.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [Previous](entry05.md) | [Next](entry07.md)
 
 [Home](../README.md)
