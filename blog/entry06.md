@@ -4,7 +4,7 @@
 As we approach the end of the FP we started coding (Finally) our MVP FP which means the bare minimum FP website that we can code for now.
 
 ### Context
-In this blog I willbe going through different challenges and success while coding my MVP FP. It was full of challenges but also fun because me and my partner Joe coded from scratch and didn't use any bootstrap templates. The hardest parts of this website was making it responsive and choosing a suitable color scheme that will make our website unique and pop out!
+In this blog I will be going through different challenges and success while coding my MVP FP. It was full of challenges but also fun because me and my partner Joe coded from scratch and didn't use any bootstrap templates. The hardest parts of this website was making it responsive and choosing a suitable color scheme that will make our website unique and pop out!
 
 ## Process of Coding the MVP of my FP
 We have been learning how to code for months now and it's finally the time to code our own website on the topic we chose in the beginning of the school year. For this FP I have a partner, Joe who worked on the MVP FP with me. We didn't jump straight into coding but instead, we made 2 which allowed us to make a layout of the website and what it would look like on mobile and larger screens.
@@ -16,7 +16,7 @@ We have been learning how to code for months now and it's finally the time to co
 [Wireframe-5](../prep/wireframe5.png)
 [Wireframe-6](../prep/wireframe6.png)
 [Wireframe-7](../prep/wireframe7.png)
-[Wireframe-8](../prep/wireframe8.png)  
+[Wireframe-8](../prep/wireframe8.png)
 
 
 
