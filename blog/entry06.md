@@ -6,10 +6,32 @@ As we approach the end of the FP we started coding (Finally) our MVP FP which me
 ### Context
 In this blog I willbe going through different challenges and success while coding my MVP FP. It was full of challenges but also fun because me and my partner Joe coded from scratch and didn't use any bootstrap templates. The hardest parts of this website was making it responsive and choosing a suitable color scheme that will make our website unique and pop out!
 
+## Process of Coding the MVP of my FP
+We have been learning how to code for months now and it's finally the time to code our own website on the topic we chose in the beginning of the school year. For this FP I have a partner, Joe who worked on the MVP FP with me. We didn't jump straight into coding but instead, we made 2 which allowed us to make a layout of the website and what it would look like on mobile and larger screens.
+
+[Wireframe-1](../prep/wireframe1.png)
+[Wireframe-2](../prep/wireframe2.png)
+[Wireframe-3](../prep/wireframe3.png)
+[Wireframe-4](../prep/wireframe4.png)
+[Wireframe-5](../prep/wireframe5.png)
+[Wireframe-6](../prep/wireframe6.png)
+[Wireframe-7](../prep/wireframe7.png)
+[Wireframe-8](../prep/wireframe8.png)  
+
+
+
+
 ## Skills
 
 ### Contribution
-Contributing to the FP was very important because I was working with a partner and we both had our own parts to code. No body was gonna do all the work and let you benefit from their work. For me, I was in charge of all the design, layout, and navbar of the website while my partner, Joe was in charge of responsivness of the website and information to make sure that our website has what it needs and everything matches the topic we are trying to express. Contribution is crucial when it comes to working as a team because if you are lacking or your team is lacking then it would just be a total disaster as work pile up.  
+Contributing to the FP was very important because I was working with a partner and we both had our own parts to code. No body was gonna do all the work and let you benefit from their work. For me, I was in charge of all the design, layout, and navbar of the website while my partner, Joe was in charge of responsivness of the website and information to make sure that our website has what it needs and everything matches the topic we are trying to express. Contribution is crucial when it comes to working as a team because if you are lacking or your team is lacking then it would just be a total disaster as work pile up.
+
+### Creativity
+This is the first time that we are offically making a website with what we learned so far and creativity was very important. I thought of different disgns and layouts for my FP website that will make it look unique and pop. Creativity is very important when it comes to design etc as we want to be creative with the color schemes and layout.
+
+## Next Steps
+We will start to make our website go beyond MVP and make it even better than before by spending more time and effort on it.
+
 
 
 
