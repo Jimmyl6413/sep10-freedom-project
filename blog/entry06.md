@@ -7,7 +7,7 @@ As we approach the end of the FP we started coding (Finally) our MVP FP which me
 In this blog I will be going through different challenges and success while coding my MVP FP. It was full of challenges but also fun because me and my partner Joe coded from scratch and didn't use any bootstrap templates. The hardest parts of this website was making it responsive and choosing a suitable color scheme that will make our website unique and pop out!
 
 ## Process of Coding the MVP of my FP
-We have been learning how to code for months now and it's finally the time to code our own website on the topic we chose in the beginning of the school year. For this FP I have a partner, Joe who worked on the MVP FP with me. We didn't jump straight into coding but instead, we made 2 which allowed us to make a layout of the website and what it would look like on mobile and larger screens.
+We have been learning how to code for months now and it's finally the time to code our own website on the topic we chose in the beginning of the school year. For this FP I have a partner, Joe who worked on the MVP FP with me. We didn't jump straight into coding but instead, we made 2 which allowed us to make a layout of the website and what it would look like on mobile and larger screens. Below are the wireframes that me and my partner made:
 
 [Wireframe-1](../prep/wireframe1.png)
 [Wireframe-2](../prep/wireframe2.png)
@@ -17,6 +17,45 @@ We have been learning how to code for months now and it's finally the time to co
 [Wireframe-6](../prep/wireframe6.png)
 [Wireframe-7](../prep/wireframe7.png)
 [Wireframe-8](../prep/wireframe8.png)
+
+After we finished the basic layouts of our website we began coding and quickly came across our first problem: communication and teamwork. It was very hard for 2 people to work together as merge conflicts can get very annoying. For instance, when I git pulled Joe's changes it deleted half of my work that I had finished and I had to redo everything all over again. We were using cards for all of our information as we figured that it's the best choice for the topic that we chose.
+
+```html
+<!-- SIMO Solis Lite Portable Mobile Hotspot -->
+      <div class="col-md-6" style="padding-top:40px;">
+        <div class="card white">
+          <img src="img/Charger.jpg" class="card-img-top" alt="Try again later!">
+          <div class="card-body">
+            <h5 class="card-title ptserif">SIMO Solis Lite Portable Mobile Hotspot</h5>
+            <p class="card-text ptserif"><strong>Description:</strong>  The SIMO Solis Lite Portable Mobile Hotspot is a favorite regarding the travel industry as it serves the purpose of entertainment. These are some of the most important features the invention has: </p>
+            <ul>
+              <li class="ptserif">Provides reliable WiFi throughout 135+ countries
+              </li>
+              <li class="ptserif">Guarantees 16+ hours of WiFi without charging
+              </li>
+              <li class="ptserif">
+                Is small in size, making suitability for everyday carry
+              </li>
+              <li class="ptserif">Can connect ten smartphones at a time; it comes in handy when traveling in a large group
+              </li>
+              <li class="ptserif">Is able to function without the use of SIM cards
+              </li>
+              <li class="ptserif">Is sustained by offered plans that are flexible, affordable, and vaulable
+              </li>
+            </ul>
+            <a href="https://www.amazon.com/SIMO-Portable-International-Multi-Carrier-Connected/dp/B08YKB6VMN" target="blank" class="btn btn-primary">Check it out!</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
+
+```
+
+We also used columns and rows to make the cards organized and next to eachother.
+
 
 
 
