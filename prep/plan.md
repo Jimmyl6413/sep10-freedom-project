@@ -10,7 +10,7 @@
 * [Desktop](https://wireframe.cc/fwQSVN) - Jimmy Li
 
 ## Colors
-* Black & White (Could change for beyond MVP)
+* Black & White & Light Brown (Could change for beyond MVP)
 ## Fonts
 * [Tapestry Font](https://fonts.google.com/specimen/Tapestry)
 * [PT Serif](https://fonts.google.com/specimen/PT+Serif)
