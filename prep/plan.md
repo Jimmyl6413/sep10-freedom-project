@@ -28,4 +28,6 @@
 
 #### Beyond MVP
 
-* Still to be decided
+* Add more colors to the webpage (most important)
+* Add more details to future inventions (important)
+
