@@ -25,7 +25,7 @@
 
 
 .color {
-    background-color: #F3AE1A ;
+    background-color: #F3AE1A;
     border-radius:2px;
 }
 
@@ -90,12 +90,12 @@
     background-image: url(img/sunset.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    height:750px;
-    width:auto;
+    height: 750px;
+    width: auto;
 }
 
 .center1 {
-    text-align:center;
+    text-align: center;
 }
 
 .pagination{
@@ -126,15 +126,15 @@
         background-image: url(img/sunset.jpg);
         background-repeat: no-repeat;
         background-size: cover;
-        height:1750px;
-        width:auto;
+        height: 1750px;
+        width: auto;
   }
 
     .title {
-        font-size:110px;
-        text-align:center;
-        color:white;
-        padding-top:550px;
+        font-size: 110px;
+        text-align: center;
+        color: white;
+        padding-top: 550px;
     }
   }
   @media (min-width:1901px) and (max-width:2499px){
@@ -143,8 +143,8 @@
         background-image: url(img/sunset.jpg);
         background-repeat: no-repeat;
         background-size: cover;
-        height:1080px;
-        width:auto;
+        height: 1080px;
+        width: auto;
   }
   }
   @media (min-width:1801px) and (max-width:1900px){
@@ -152,11 +152,11 @@
         background-image: url(img/sunset.jpg);
         background-repeat: no-repeat;
         background-size: cover;
-        height:1050px;
-        width:auto;
+        height: 1050px;
+        width: auto;
   }
     .title {
-        font-size:110px; text-align:center; color:white; padding-top:350px;
+        font-size: 110px; text-align: center; color: white; padding-top: 350px;
     }
   }
 
@@ -165,8 +165,8 @@
         background-image: url(img/sunset.jpg);
         background-repeat: no-repeat;
         background-size: cover;
-        height:1050px;
-        width:auto;
+        height: 1050px;
+        width: auto;
   }
     .title {
         font-size:110px; text-align:center; color:white; padding-top:350px;
@@ -179,8 +179,8 @@
         background-image: url(img/sunset.jpg);
         background-repeat: no-repeat;
         background-size: cover;
-        height:1150px;
-        width:auto;
+        height: 1150px;
+        width: auto;
   }
   }
 
@@ -190,8 +190,8 @@
         background-image: url(img/sunset.jpg);
         background-repeat: no-repeat;
         background-size: cover;
-        height:1100px;
-        width:auto;
+        height: 1100px;
+        width: auto;
   }
   }
 
@@ -201,8 +201,8 @@
         background-image: url(img/sunset.jpg);
         background-repeat: no-repeat;
         background-size: cover;
-        height:1100px;
-        width:auto;
+        height: 1100px;
+        width: auto;
   }
   }
 
@@ -211,8 +211,8 @@
         background-image: url(img/sunset.jpg);
         background-repeat: no-repeat;
         background-size: cover;
-        height:950px;
-        width:auto;
+        height: 950px;
+        width: auto;
     }
   }
 
@@ -221,8 +221,8 @@
         background-image: url(img/sunset.jpg);
         background-repeat: no-repeat;
         background-size: cover;
-        height:950px;
-        width:auto;
+        height: 950px;
+        width: auto;
     }
   }
 
@@ -232,8 +232,8 @@
         background-image: url(img/sunset.jpg);
         background-repeat: no-repeat;
         background-size: cover;
-        height:900px;
-        width:auto;
+        height: 900px;
+        width: auto;
   }
   }
 
@@ -243,8 +243,8 @@
         background-image: url(img/sunset.jpg);
         background-repeat: no-repeat;
         background-size: cover;
-        height:900px;
-        width:auto;
+        height: 900px;
+        width: auto;
   }
 
   }
@@ -255,8 +255,8 @@
         background-image: url(img/sunset.jpg);
         background-repeat: no-repeat;
         background-size: cover;
-        height:580px;
-        width:auto;
+        height: 580px;
+        width: auto;
 
   }
   }
@@ -276,10 +276,10 @@
 
 
 .title {
-    font-size:110px;
-    text-align:center;
-    color:white;
-    padding-top:230px;
+    font-size: 110px;
+    text-align: center;
+    color: white;
+    padding-top: 230px;
 }
 
 
