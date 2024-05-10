@@ -26,7 +26,7 @@
 
 .color {
     background-color: #F3AE1A;
-    border-radius:2px;
+    border-radius: 2px;
 }
 
 .word {
@@ -205,7 +205,9 @@
         width: auto;
   }
   }
-
+@media (max-width: 1399px){
+    
+}
   @media (min-width:1300px) and (max-width:1399px){
     .background {
         background-image: url(img/sunset.jpg);
