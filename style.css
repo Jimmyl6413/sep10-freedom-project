@@ -25,8 +25,8 @@
 
 
 .color {
-    background-color: #F3AE1A ;
-    border-radius:2px;
+    background-color: #F3AE1A;
+    border-radius: 2px;
 }
 
 .word {
@@ -90,12 +90,12 @@
     background-image: url(img/sunset.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    height:750px;
-    width:auto;
+    height: 750px;
+    width: auto;
 }
 
 .center1 {
-    text-align:center;
+    text-align: center;
 }
 
 .pagination{
@@ -120,249 +120,148 @@
     border-radius: 5px;
   }
 
-@media (min-width:2500px){
-    iframe {
-        padding-top:35px;
-        height:500px;
-        width:1900px;
-        padding-left:660px;
-    }
+  @media (min-width:2500px){
 
     .background {
         background-image: url(img/sunset.jpg);
         background-repeat: no-repeat;
         background-size: cover;
-        height:1750px;
-        width:auto;
-}
+        height: 1750px;
+        width: auto;
+  }
 
     .title {
-        font-size:110px;
-        text-align:center;
-        color:white;
-        padding-top:550px;
+        font-size: 110px;
+        text-align: center;
+        color: white;
+        padding-top: 550px;
     }
-}
-@media (min-width:1901px) and (max-width:2499px){
-    iframe {
-        padding-top:35px;
-        height:500px;
-        width:1500px;
-        padding-left:420px;
-    }
+  }
+  @media (min-width:1901px) and (max-width:2499px){
 
     .background {
         background-image: url(img/sunset.jpg);
         background-repeat: no-repeat;
         background-size: cover;
-        height:1750px;
-        width:auto;
-}
-}
-@media (min-width:1801px) and (max-width:1900px){
+        height: 1080px;
+        width: auto;
+  }
+  }
+  @media (min-width:1801px) and (max-width:1900px){
     .background {
         background-image: url(img/sunset.jpg);
         background-repeat: no-repeat;
         background-size: cover;
-        height:1050px;
-        width:auto;
-}
+        height: 1050px;
+        width: auto;
+  }
     .title {
-        font-size:110px; text-align:center; color:white; padding-top:350px;
+        font-size: 110px; text-align: center; color: white; padding-top: 350px;
     }
+  }
 
-    iframe {
-        padding-top:35px;
-        height:500px;
-        width:1460px;
-        padding-left:350px;
-    }
-}
-
-@media (min-width:1550px) and (max-width:1800px){
+  @media (min-width:1550px) and (max-width:1800px){
     .background {
         background-image: url(img/sunset.jpg);
         background-repeat: no-repeat;
         background-size: cover;
-        height:1050px;
-        width:auto;
-}
+        height: 1050px;
+        width: auto;
+  }
     .title {
         font-size:110px; text-align:center; color:white; padding-top:350px;
     }
+  }
 
-    iframe {
-        padding-top:35px;
-        height:500px;
-        width:1440px;
-        padding-left:160px;
-    }
-}
-
-@media (min-width:1517px) and (max-width:1549px){
-    iframe {
-        padding-top:35px;
-        height:500px;
-        width:1370px;
-        padding-left:170px;
-    }
+  @media (min-width:1517px) and (max-width:1549px){
 
     .background {
         background-image: url(img/sunset.jpg);
         background-repeat: no-repeat;
         background-size: cover;
-        height:1150px;
-        width:auto;
-}
-}
+        height: 1150px;
+        width: auto;
+  }
+  }
 
-@media (min-width:1461px) and (max-width:1516px){
-    iframe {
-        padding-top:35px;
-        height:500px;
-        width:1350px;
-        padding-left:125px;
-    }
+  @media (min-width:1461px) and (max-width:1516px){
 
     .background {
         background-image: url(img/sunset.jpg);
         background-repeat: no-repeat;
         background-size: cover;
-        height:1100px;
-        width:auto;
-}
-}
+        height: 1100px;
+        width: auto;
+  }
+  }
 
-@media (min-width:1400px) and (max-width:1460px){
-    iframe {
-        padding-top:35px;
-        height:500px;
-        width:1350px;
-        padding-left:80px;
-    }
+  @media (min-width:1400px) and (max-width:1460px){
 
     .background {
         background-image: url(img/sunset.jpg);
         background-repeat: no-repeat;
         background-size: cover;
-        height:1100px;
-        width:auto;
+        height: 1100px;
+        width: auto;
+  }
+  }
+@media (max-width: 1399px){
+    
 }
-}
-
-@media (min-width:1300px) and (max-width:1399px){
+  @media (min-width:1300px) and (max-width:1399px){
     .background {
         background-image: url(img/sunset.jpg);
         background-repeat: no-repeat;
         background-size: cover;
-        height:950px;
-        width:auto;
+        height: 950px;
+        width: auto;
     }
+  }
 
-    iframe {
-        padding-top:35px;
-        height:500px;
-        width:1200px;
-        padding-left:180px;
-    }
-}
-
-@media (min-width:1200px) and (max-width:1299px){
+  @media (min-width:1200px) and (max-width:1299px){
     .background {
         background-image: url(img/sunset.jpg);
         background-repeat: no-repeat;
         background-size: cover;
-        height:950px;
-        width:auto;
+        height: 950px;
+        width: auto;
     }
+  }
 
-    iframe {
-        padding-top:35px;
-        height:500px;
-        width:1070px;
-        padding-left:160px;
-    }
-}
-
-@media (min-width:1001px) and (max-width:1199px){
-    iframe {
-        padding-top:35px;
-        height:500px;
-        width:850px;
-        padding-left:190px;
-    }
+  @media (min-width:1001px) and (max-width:1199px){
 
     .background {
         background-image: url(img/sunset.jpg);
         background-repeat: no-repeat;
         background-size: cover;
-        height:900px;
-        width:auto;
-}
-}
+        height: 900px;
+        width: auto;
+  }
+  }
 
-@media (min-width:901px) and (max-width:1000px){
-    iframe {
-        padding-top:35px;
-        height:500px;
-        width:750px;
-        padding-left:190px;
-    }
+  @media (min-width:901px) and (max-width:1000px){
 
     .background {
         background-image: url(img/sunset.jpg);
         background-repeat: no-repeat;
         background-size: cover;
-        height:900px;
-        width:auto;
-}
+        height: 900px;
+        width: auto;
+  }
 
-}
+  }
 
-@media (max-width:900px){
-        iframe{
-            padding-top:35px;
-            padding-left:125px;
-            width:640px;
-            height:500px;
-        }
-}
-
-@media (max-width:676px) {
-
-    .height {
-        height:600px;
-    }
-
-    .height2 {
-        height:600px;
-    }
-
-    iframe {
-        padding-left:105px;
-        padding-top:20px;
-        height:550px;
-        width:500px;
-    }
+  @media (max-width:676px) {
 
     .background {
         background-image: url(img/sunset.jpg);
         background-repeat: no-repeat;
         background-size: cover;
-        height:580px;
-        width:auto;
+        height: 580px;
+        width: auto;
 
-}
-}
-
-@media (max-width:376px){
-    iframe{
-        padding-left:35px;
-        padding-left:20px;
-        height:350px;
-        width:350px;
-    }
-}
+  }
+  }
 
 
 .padding {
@@ -379,11 +278,37 @@
 
 
 .title {
-    font-size:110px;
-    text-align:center;
-    color:white;
-    padding-top:230px;
+    font-size: 110px;
+    text-align: center;
+    color: white;
+    padding-top: 230px;
 }
 
+
+
+.responsive {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .wrap-element {
+    position: relative;
+    overflow: hidden;
+    padding-top: 56.25%;
+  }
+
+  .wrapped-iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
 
 
