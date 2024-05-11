@@ -29,3 +29,9 @@
 #### Beyond MVP
 
 * Still to be decided
+
+## feedback/changes
+* Made some changes to the "check it out!" button in the cards
+* Made some changes to the color of the cards in the future inventions section
+* Added some text next to the a-frame model to have a better explanation and description of the model
+* Changes to the color scheme
