@@ -29,5 +29,7 @@
 
 * Add slightly more colors to the webpage (most important)
 * Add more details to future inventions (important)
-* 
+* Explain A-Frame controls in VR scene (important)
+* Remove buttons for future cards (semi-important)
+
 
