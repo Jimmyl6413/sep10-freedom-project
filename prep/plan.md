@@ -12,7 +12,6 @@
 ## Colors
 * Black & White & Light Brown (Could change for beyond MVP)
 ## Fonts
-* [Tapestry Font](https://fonts.google.com/specimen/Tapestry)
 * [PT Serif](https://fonts.google.com/specimen/PT+Serif)
 
 ## Timeline
@@ -28,16 +27,7 @@
 
 #### Beyond MVP
 
-<<<<<<< HEAD
-* Still to be decided
-
-## feedback/changes
-* Made some changes to the "check it out!" button in the cards
-* Made some changes to the color of the cards in the future inventions section
-* Added some text next to the a-frame model to have a better explanation and description of the model
-* Changes to the color scheme
-=======
-* Add more colors to the webpage (most important)
+* Add slightly more colors to the webpage (most important)
 * Add more details to future inventions (important)
+* 
 
->>>>>>> 4556b7858223b24239b52f54d06c34027c033b7f

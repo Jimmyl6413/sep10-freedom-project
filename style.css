@@ -152,7 +152,7 @@
         background-image: url(img/sunset.jpg);
         background-repeat: no-repeat;
         background-size: cover;
-        height: 1470px;
+        height: 1320px;
         width: auto;
   }
     .title {
@@ -165,7 +165,7 @@
         background-image: url(img/sunset.jpg);
         background-repeat: no-repeat;
         background-size: cover;
-        height: 1340px;
+        height: 1140px;
         width: auto;
   }
     .title {
@@ -179,7 +179,7 @@
         background-image: url(img/sunset.jpg);
         background-repeat: no-repeat;
         background-size: cover;
-        height: 1320px;
+        height: 1120px;
         width: auto;
   }
   }
@@ -190,7 +190,7 @@
         background-image: url(img/sunset.jpg);
         background-repeat: no-repeat;
         background-size: cover;
-        height: 1270px;
+        height: 1100px;
         width: auto;
   }
   }
@@ -201,13 +201,13 @@
         background-image: url(img/sunset.jpg);
         background-repeat: no-repeat;
         background-size: cover;
-        height: 1100px;
+        height: 1000px;
         width: auto;
   }
   }
 @media (max-width: 1399px){
     .padding2 {
-        padding-top: 70px;
+        padding-top: 71px;
 
  }
 }
@@ -226,7 +226,7 @@
         background-image: url(img/sunset.jpg);
         background-repeat: no-repeat;
         background-size: cover;
-        height: 1050px;
+        height: 900px;
         width: auto;
     }
   }
@@ -237,7 +237,7 @@
         background-image: url(img/sunset.jpg);
         background-repeat: no-repeat;
         background-size: cover;
-        height: 1000px;
+        height: 900px;
         width: auto;
   }
   }
@@ -255,13 +255,13 @@
 
   }
 
-  @media (min-width:768px) and (max-width:992px){
-    .padding3{
-        padding-top:45px;
+  @media (max-width: 767px){
+    .pad {
+        padding-top: 40px;
     }
   }
 
-  @media (max-width:676px) {
+  @media (min-width:0px) and (max-width:676px) {
 
     .background {
         background-image: url(img/sunset.jpg);
@@ -328,4 +328,8 @@
 
 .padding3 {
     margin-top: 0px;
+}
+
+.pad {
+    padding-top: 25px;
 }
