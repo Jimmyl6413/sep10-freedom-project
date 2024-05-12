@@ -120,7 +120,7 @@
     border-radius: 5px;
   }
 
-  @media (min-width:2500px){
+  @media (min-width: 2500px){
 
     .background {
         background-image: url(img/sunset.jpg);
@@ -134,10 +134,10 @@
         font-size: 110px;
         text-align: center;
         color: white;
-        padding-top: 550px;
+        padding-top: 650px;
     }
   }
-  @media (min-width:1901px) and (max-width:2499px){
+  @media (min-width: 1901px) and (max-width: 2499px){
 
     .background {
         background-image: url(img/sunset.jpg);
@@ -147,7 +147,7 @@
         width: auto;
   }
   }
-  @media (min-width:1801px) and (max-width:1900px){
+  @media (min-width: 1801px) and (max-width: 1900px){
     .background {
         background-image: url(img/sunset.jpg);
         background-repeat: no-repeat;
@@ -157,7 +157,7 @@
   }
   }
 
-  @media (min-width:1517px) and (max-width:1800px){
+  @media (min-width: 1517px) and (max-width: 1800px){
 
     .background {
         background-image: url(img/sunset.jpg);
@@ -168,18 +168,7 @@
   }
   }
 
-  @media (min-width:1461px) and (max-width:1516px){
-
-    .background {
-        background-image: url(img/sunset.jpg);
-        background-repeat: no-repeat;
-        background-size: cover;
-        height: 1100px;
-        width: auto;
-  }
-  }
-
-  @media (min-width:1400px) and (max-width:1460px){
+  @media (min-width: 1461px) and (max-width: 1516px){
 
     .background {
         background-image: url(img/sunset.jpg);
@@ -189,33 +178,44 @@
         width: auto;
   }
   }
+
+  @media (min-width: 1400px) and (max-width: 1460px){
+
+    .background {
+        background-image: url(img/sunset.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 950px;
+        width: auto;
+  }
+  }
 @media (min-width: 768px) and (max-width: 1399px){
     .padding2 {
         padding-top: 71px;
 
  }
 }
-  @media (min-width:1300px) and (max-width:1399px){
+  @media (min-width: 1300px) and (max-width: 1399px){
     .background {
         background-image: url(img/sunset.jpg);
         background-repeat: no-repeat;
         background-size: cover;
-        height: 1120px;
+        height: 820px;
         width: auto;
     }
   }
 
-  @media (min-width:1200px) and (max-width:1299px){
+  @media (min-width: 1200px) and (max-width: 1299px){
     .background {
         background-image: url(img/sunset.jpg);
         background-repeat: no-repeat;
         background-size: cover;
-        height: 900px;
+        height: 650px;
         width: auto;
     }
   }
 
-  @media (min-width:1001px) and (max-width:1199px){
+  @media (min-width: 1001px) and (max-width: 1199px){
 
     .background {
         background-image: url(img/sunset.jpg);
@@ -226,7 +226,7 @@
   }
   }
 
-  @media (min-width:901px) and (max-width:1000px){
+  @media (min-width: 901px) and (max-width: 1000px){
 
     .background {
         background-image: url(img/sunset.jpg);
@@ -237,7 +237,7 @@
   }
   }
 
-  @media (min-width:0px) and (max-width:676px) {
+  @media (min-width: 0px) and (max-width: 676px) {
 
     .background {
         background-image: url(img/sunset.jpg);
