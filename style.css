@@ -19,15 +19,7 @@
     );
 }
 
-.tapestry {
-    font-family: Tapestry;
-}
 
-
-.color {
-    background-color: #F3AE1A;
-    border-radius: 2px;
-}
 
 .word {
     font-size: 30px;
@@ -189,11 +181,42 @@
         width: auto;
   }
   }
+
 @media (min-width: 768px) and (max-width: 1399px){
     .padding2 {
         padding-top: 71px;
-
  }
+
+}
+
+@media (min-width: 1401px){
+    .pad7 {
+        padding-top: 15px;
+    }
+}
+@media (min-width: 1200px) and (max-width: 1399px){
+    .pad5 {
+        padding-top: 22px;
+    }
+
+    .pad6 {
+        padding-top: 20px;
+    }
+
+    .padding3{
+        padding-top: 25px;
+    }
+}
+@media (min-width: 992px) and (max-width: 1199px){
+    .pad3 {
+        padding-top: 20px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1023px){
+    .padding3 {
+        padding-top: 48px;
+    }
 }
   @media (min-width: 1300px) and (max-width: 1399px){
     .background {
@@ -224,6 +247,10 @@
         height: 900px;
         width: auto;
   }
+
+    .pad3 {
+        padding-top: 22px;
+     }
   }
 
   @media (min-width: 901px) and (max-width: 1000px){
@@ -308,4 +335,24 @@
 
 .pad {
     padding-top: 25px;
+}
+
+.padding4 {
+    margin-top: 0px;
+}
+
+.pad3 {
+    margin-top: 0px;
+}
+
+.pad5 {
+    margin-top: 0px;
+}
+
+.pad6 {
+    margin-top: 0px;
+}
+
+.pad7 {
+    margin-top: 0px;
 }

@@ -31,5 +31,5 @@
 * Add more details to future inventions (important)
 * Explain A-Frame controls in VR scene (important)
 * Remove buttons for future cards (semi-important)
-
+* Adjust buttons (moderate)
 
