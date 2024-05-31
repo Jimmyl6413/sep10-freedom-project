@@ -1,7 +1,20 @@
 # Entry 7
-##### X/X/XX
+##### May 31, 2024
 
-Text
+### Update
+
+### Context
+
+## Engineering Design Process (EDP)
+
+## Skills
+
+### Creativity
+
+### Self-learning
+
+## Next steps
+
 
 [Previous](entry06.md) | [Next](entry08.md)
 
