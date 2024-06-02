@@ -3,7 +3,7 @@
 ### Update
 As we approach the end of the FP we started coding (Finally) our MVP FP which means the bare minimum FP website that we can code for now.
 
-### Context
+### Content
 In this blog I will be going through different challenges and success while coding my MVP FP. It was full of challenges but also fun because me and my partner Joe coded from scratch and didn't use any bootstrap templates. The hardest parts of this website was making it responsive and choosing a suitable color scheme that will make our website unique and pop out!
 
 ## Process of Coding the MVP of my FP
