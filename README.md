@@ -2,21 +2,23 @@
 by **Jimmy Li**
 
 ## Context
-I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project all about making a website that informs the viewer of the current and future innovations in the topic of my choosing.
-
 For my project, I chose the topic of **Traveling/Transportation**.
 
-I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X** in order to help me make by website.
+I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **Animated.css** in order to help me make by website.
+
+I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project all about making a website that informs the viewer of the current and future innovations in the topic of my choosing. For this Freedom Project I worked alongside Joe, my peer. We chose the topic travel as we both had a really big passion for travel. Traveling has been hard ever since the pendemic in 2020. So we figured that this was a topic that we wanted to research about and make a website about. We used a combination of HTML, CSS, Bootstrap, and Animated.css to construct a website regarding travel. Me and Joe both used different tools. Joe used A-frame while I used Animated.css. In this way, Joe was able to make 3d models of future designs/inventions that we had in mind and I was able to make our website more engaging with animations and transitions.
+
+
 
 ## Links
 
-[Product]()
+[Product](https://jimmyl6413.github.io/sep10-freedom-project/#Home)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/1y_WxQUBVwVSWlmgBhd8s24UOm_IPpfGh-H2BJjkCRk4/edit#slide=id.p)
 
 ## Implications
 ##### PROS
-*
+* 
 ##### CONS
 *
 
